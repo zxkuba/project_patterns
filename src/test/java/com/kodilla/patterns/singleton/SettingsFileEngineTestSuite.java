@@ -3,7 +3,7 @@ package com.kodilla.patterns.singleton;
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 
 public class SettingsFileEngineTestSuite {
